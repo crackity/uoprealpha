@@ -1,0 +1,78 @@
+							ULTIMA ONLINE: Shattered Legacy
+								Pre-Alpha Credits
+
+
+Producer:
+  Richard Garriott
+
+Associate Producer:
+	Starr Long
+
+Lead Programmer:
+    Rick Delashmit
+
+Programmers:
+	Edmond Meinfelder
+	Scott Phillips
+	Jeff Posey
+
+Additional Programming:
+	John Watson
+
+Lead Designer:
+	Andrew P. Morris
+
+Designers:
+	Marshall Andrews
+	Kristen L. Koster
+	Raph Koster
+	Todd McKimmey
+
+Art Director:
+	Jennifer Davis
+	
+Artists:
+	Clay Hoffman
+	Micael Priest
+	Bryan Pritchard
+	Niqui Wright
+
+Additional Art:
+	Scott Jones
+	Kristen L. Koster
+	Raph Koster
+	Denis Loubet
+
+Additional Art-like Tasks:
+	Rick Delashmit
+
+Audio Direction and Production:
+    Kirk W. Winterrowd
+
+Network:
+	Edmond Meinfelder
+	Alex North-Keys
+	Mark Rizzo
+
+Quality Assurance Supervisor:
+	Evan Brandt
+
+Quality Assurance Project Leaders:
+	Richard Zinser, Project leader
+	Todd Wachhaus, Assistant Project Leader
+	John Moreland, Assistant Project Leader
+
+Quality Assurance Testers:
+	Monty Kerr
+	Artie Rogers
+	Paul Sage
+
+Quality Assurance Hardware Technicians:
+	Michael Oreily
+	Brett Bonner
+
+Marketing Representation:
+	Chris Plummer
+	Richard Steinberg
+
+

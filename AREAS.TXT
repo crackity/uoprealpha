@@ -1,0 +1,15 @@
+<AREAFILE>
+
+  <AREA>
+    <ID>            0
+    <Name>          Abode of the Llama King
+    <FileName>      whoop
+    <Dimensions>    1024 1024
+    <MaxPlayers>    1024
+    <LINKS>
+    </LINKS>
+    <ENTRANCES>
+    </ENTRANCES>
+  </AREA>
+
+</AREAFILE>
